@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Footy's Fearless Fleet - C208 - RedWing",
+  "manufacturer": "Textron Aviation",
+  "creator": "Bo",
+  "package_version": "0.9",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
