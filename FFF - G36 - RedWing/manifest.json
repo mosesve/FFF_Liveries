@@ -1,0 +1,15 @@
+{
+  "dependencies": [],
+  "content_type": "AIRCRAFT",
+  "title": "Footy's Fearless Fleet - G36 - RedWing",
+  "manufacturer": "<<MANUFACTURER>>",
+  "creator": "Bo",
+  "package_version": "0.9",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  }
+}
