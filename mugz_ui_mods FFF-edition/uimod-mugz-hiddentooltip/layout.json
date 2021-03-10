@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mugz-uimods/Thumbnail.jpg",
+      "size": 32721,
+      "date": 132507213133273677
+    },
+    {
+      "path": "html_ui/mCSS/mugzTips.css",
+      "size": 217,
+      "date": 132534630276995913
+    },
+    {
+      "path": "html_ui/mJS/mugzTips.js",
+      "size": 383,
+      "date": 132534629367718380
+    },
+    {
+      "path": "html_ui/Pages/Notifications/Notification_Tips/Notification_Tips.html",
+      "size": 748,
+      "date": 132535375177347017
+    }
+  ]
+}

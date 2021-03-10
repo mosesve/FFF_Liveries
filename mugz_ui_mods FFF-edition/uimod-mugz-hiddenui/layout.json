@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/mugz-uimods/Thumbnail.jpg",
+      "size": 32721,
+      "date": 132507213133273677
+    },
+    {
+      "path": "html_ui/mCSS/mugzTB.css",
+      "size": 88,
+      "date": 132535378429296448
+    },
+    {
+      "path": "html_ui/mJS/mugzReload.js",
+      "size": 263,
+      "date": 132535443384687924
+    },
+    {
+      "path": "html_ui/mJS/mugzTB.js",
+      "size": 223,
+      "date": 132535424857383314
+    },
+    {
+      "path": "html_ui/mJS/mugzUI.js",
+      "size": 2545,
+      "date": 132535435666972513
+    },
+    {
+      "path": "html_ui/Pages/InGameMarkers/InGameMarkers.html",
+      "size": 1092,
+      "date": 132535443321568776
+    },
+    {
+      "path": "html_ui/Pages/Toolbar/ToolBar.html",
+      "size": 1640,
+      "date": 132535377577547297
+    },
+    {
+      "path": "html_ui/Templates/InGameHud/InGameHud.html",
+      "size": 366,
+      "date": 132535443238289769
+    }
+  ]
+}
