@@ -22,6 +22,6 @@ I modified "tinyplates" and "hiddenui" to give the following features:
 This version of mugz_ui_mods is working with SimUpdate III  (09.03.2021) as far as I know and tested.
 I will continue to update this version, when there are updates to the original mods.
 If something is not working correctly just use the original mod and talk to me after an event on the official MSFS-Discord.
-And of course: I have talked to mixMmugz and have his permission to host the modified version here.
+And of course: I have talked to mixMugz and have his permission to host the modified version here.
 
 - Bo
